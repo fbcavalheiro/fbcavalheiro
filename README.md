@@ -14,4 +14,4 @@ I'm a software developer who loves technology and loves learning new things.
 
 I constantly look for opportunities to grow, currently I'm deepening my front-end knowledge in React and back-end with Node and .NET.
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/frederico-cavalheiro)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frederico-cavalheiro/)
