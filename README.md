@@ -8,7 +8,7 @@ I'm a software developer who loves technology and loves learning new things.
 
 * **Languages:** I'm proficient in languages like C# and JavaScript, enabling me to tackle a wide range of projects across different platforms.
 * **Frameworks & Libraries:** I specialize in using frameworks like Node.js and .NET Core for backend development and React for building engaging user interfaces.
-* **Cloud Technologies:** Possuo certificação e trabalho com azure para implantar aplicativos escalonáveis e resilientes.
+* **Cloud Technologies:** I am certified and work with Azure to deploy scalable and resilient applications.
 
 **🌱 What I'm Learning**
 
